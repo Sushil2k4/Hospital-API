@@ -1,4 +1,7 @@
-#DELETE
-```{
+# DELETE
+
+```
+{
     "message": "Unhealthy kidneys deleted successfully"
-}```
+}
+```
