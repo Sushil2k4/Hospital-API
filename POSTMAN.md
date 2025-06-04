@@ -10,6 +10,6 @@
 
 ```
 {
-    "message": "Unhealthy kidneys deleted successfully"
+    "message": "Kidneys added successfully"
 }
 ```
