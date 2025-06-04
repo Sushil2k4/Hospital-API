@@ -13,3 +13,10 @@
     "message": "Kidneys added successfully"
 }
 ```
+# PUT
+
+```
+{
+    "message": "Healhty kidneys counted"
+}
+```
